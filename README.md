@@ -1,133 +1,120 @@
-<h1 align="center">Hi 👋, I'm Seemarani G</h1>
+<div align="center">
 
-<h3 align="center">
-Generative AI Engineer | Conversational AI Engineer | Voice AI Engineer
-</h3>
+# SEEMARANI G
 
-<p align="center">
-Building Enterprise AI Solutions with LLMs, RAG, Voice AI, Azure OpenAI, Unity & Unreal Engine
-</p>
+### Generative AI Engineer • Conversational AI • Voice AI • Digital Humans
 
-<img align="right" alt="AI" width="400"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I5dW5kbmNhdDBuYzRqMGJ5ZzljZmQ4M3g2c3J1c2l1ZHBwdWl4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+Building intelligent AI experiences with LLMs, Voice AI, Unity, Unreal Engine & Cloud Technologies.
 
-- 🔭 Currently building **Enterprise RAG & Conversational AI Solutions**
+<br>
 
-- 🤖 Working on **LLMs, AI Agents, Voice AI & Digital Humans**
+[LinkedIn](https://linkedin.com/in/seemarani-g) •
+[GitHub](https://github.com/seemaranig) •
+[Email](mailto:seemarani2599@gmail.com)
 
-- 🎙️ Building **Speech-to-Text, Text-to-Speech & AI Avatars**
-
-- 🎮 AI Integration with **Unity & Unreal Engine**
-
-- ☁️ Cloud Platforms: **Azure, AWS, AKS**
-
-- 💬 Ask me about **GenAI, RAG, LangChain, Azure OpenAI, FastAPI**
-
-- 📫 Reach me: **seemarani2599@gmail.com**
-
-- ⚡ Fun fact: I build AI-powered MetaHumans that can see, listen and talk.
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## About Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/seemarani-g/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+I specialize in building AI-powered applications that combine language models, voice technologies, and digital humans.
 
----
+My work spans:
 
-## 🧰 Tech Stack
-
-### 🤖 Generative AI
-`Azure OpenAI`
-`LangChain`
-`CrewAI`
-`RAG`
-`Prompt Engineering`
-`FAISS`
-`Vector Databases`
-
-### 🐍 Backend Development
-`Python`
-`FastAPI`
-`REST APIs`
-`Microservices`
-
-### ☁️ Cloud & DevOps
-`Azure`
-`AWS`
-`AKS`
-`Docker`
-`GitHub Actions`
-`CI/CD`
-
-### 🎙️ Voice AI
-`Azure Speech Services`
-`Speech-to-Text`
-`Text-to-Speech`
-`Voice Agents`
-
-### 🎮 Game Engines
-`Unity`
-`Unreal Engine`
-`MetaHuman`
-`Photon`
+- Enterprise RAG Systems
+- Conversational AI Platforms
+- Voice AI Applications
+- AI Agents & Automation
+- Unity AI Avatars
+- Unreal MetaHuman Experiences
+- Cloud-Native AI Deployments
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-### 🧠 Enterprise RAG Platform
-AI-powered enterprise search using Azure OpenAI, LangChain and FAISS.
+```yaml
+Working_On:
+  - Multi-Agent AI Systems
+  - Enterprise RAG Solutions
+  - Voice AI Assistants
+  - Digital Human Experiences
 
-### 🎙️ Voice AI Assistant
-Real-time speech conversation using STT, LLM and TTS.
-
-### 🤖 Multi-Agent AI System
-Autonomous AI agents built using CrewAI.
-
-### 🎭 Unreal MetaHuman Assistant
-Digital human powered by LLMs and Voice AI.
-
-### 🎮 Unity AI Avatar
-Interactive AI avatar with voice-based conversations.
-
-### ⚡ FastAPI LLM Backend
-Production-ready backend APIs for enterprise AI applications.
+Exploring:
+  - Agentic AI
+  - AI Workflows
+  - Real-Time Voice Agents
+  - Multimodal AI
+```
 
 ---
 
-## 🏆 Achievements
+## Technology Stack
 
-🥇 Circle Champion Award
+### AI & LLM Engineering
 
-🌟 Rookie Star Award
+Python • Azure OpenAI • LangChain • CrewAI • RAG • FAISS • Vector Databases • Prompt Engineering
 
-🚀 Delivered Enterprise AI & Digital Human Solutions
+### Backend
 
-🎯 Built Production-Grade Conversational AI Systems
+FastAPI • REST APIs • Microservices • WebSockets
 
----
+### Cloud & DevOps
 
-## 📈 GitHub Stats
+Azure • AWS • AKS • Docker • GitHub Actions • CI/CD
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=seemaranig&show_icons=true" />
-</p>
+### Voice AI
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seemaranig" />
-</p>
+Azure Speech Services • Speech-to-Text • Text-to-Speech • Real-Time Voice Agents
 
----
+### Game Engines
 
-## 📄 Resume
-
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](YOUR_RESUME_LINK)
+Unity • Unreal Engine • MetaHuman • Photon
 
 ---
 
-### ⭐ Building the Future with Generative AI, Voice AI & Digital Humans
+## Featured Projects
+
+### Enterprise Knowledge Assistant
+AI-powered document intelligence platform using Azure OpenAI, LangChain, and FAISS.
+
+### Voice AI Platform
+Real-time voice conversations powered by Speech-to-Text, LLMs, and Text-to-Speech.
+
+### AI MetaHuman Assistant
+Interactive Unreal Engine MetaHuman integrated with enterprise AI services.
+
+### Unity AI Avatar
+Voice-enabled virtual assistant with real-time conversational capabilities.
+
+### Multi-Agent Automation
+Autonomous AI agents orchestrating enterprise workflows.
+
+---
+
+## Impact
+
+✓ Delivered enterprise conversational AI solutions
+
+✓ Built production-ready RAG systems
+
+✓ Developed AI-powered virtual humans
+
+✓ Designed scalable FastAPI AI backends
+
+✓ Integrated LLMs into Unity and Unreal applications
+
+---
+
+## Quote
+
+> "The future of software is conversational, multimodal, and intelligent."
+
+---
+
+<div align="center">
+
+### Let's Build the Next Generation of AI Experiences
+
+</div>
