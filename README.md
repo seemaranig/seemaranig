@@ -14,7 +14,7 @@ I build enterprise-grade AI systems — from RAG pipelines and multi-agent orche
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seemarani_G-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seemarani-g/)
 [![Email](https://img.shields.io/badge/Email-seemarani2599%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seemarani2599@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-1D9E75?style=flat-square&logo=adobeacrobatreader)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/Resume-PDF-1D9E75?style=flat-square&logo=adobeacrobatreader)](http://github.com/seemaranig/seemaranig/blob/main/Seemarani_resume.pdf)
 
 </td>
 <td valign="top" align="center" width="35%">
