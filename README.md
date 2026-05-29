@@ -5,106 +5,98 @@ Generative AI Engineer | Conversational AI Engineer | Voice AI Engineer
 </h3>
 
 <p align="center">
-Building Enterprise AI Solutions using LLMs, RAG, Voice AI, Azure OpenAI, Unity & Unreal Engine
+Building Enterprise AI Solutions with LLMs, RAG, Voice AI, Azure OpenAI, Unity & Unreal Engine
+</p>
+
+<img align="right" alt="AI" width="400"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3I5dW5kbmNhdDBuYzRqMGJ5ZzljZmQ4M3g2c3J1c2l1ZHBwdWl4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+- 🔭 Currently building **Enterprise RAG & Conversational AI Solutions**
+
+- 🤖 Working on **LLMs, AI Agents, Voice AI & Digital Humans**
+
+- 🎙️ Building **Speech-to-Text, Text-to-Speech & AI Avatars**
+
+- 🎮 AI Integration with **Unity & Unreal Engine**
+
+- ☁️ Cloud Platforms: **Azure, AWS, AKS**
+
+- 💬 Ask me about **GenAI, RAG, LangChain, Azure OpenAI, FastAPI**
+
+- 📫 Reach me: **seemarani2599@gmail.com**
+
+- ⚡ Fun fact: I build AI-powered MetaHumans that can see, listen and talk.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/seemarani-g/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧰 Tech Stack
 
-💡 Generative AI Engineer with 4+ years of experience building AI-powered applications.
+### 🤖 Generative AI
+`Azure OpenAI`
+`LangChain`
+`CrewAI`
+`RAG`
+`Prompt Engineering`
+`FAISS`
+`Vector Databases`
 
-🔹 Enterprise RAG Systems
+### 🐍 Backend Development
+`Python`
+`FastAPI`
+`REST APIs`
+`Microservices`
 
-🔹 Conversational AI & Chatbots
+### ☁️ Cloud & DevOps
+`Azure`
+`AWS`
+`AKS`
+`Docker`
+`GitHub Actions`
+`CI/CD`
 
-🔹 Voice AI (Speech-to-Text & Text-to-Speech)
+### 🎙️ Voice AI
+`Azure Speech Services`
+`Speech-to-Text`
+`Text-to-Speech`
+`Voice Agents`
 
-🔹 Azure OpenAI & LangChain
-
-🔹 FastAPI & Python Backend Development
-
-🔹 Unity AI Avatars & Unreal MetaHumans
-
-🔹 Cloud Deployment on Azure & AWS
-
----
-
-## 🛠️ Tech Stack
-
-### Generative AI
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-4CAF50?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF9800?style=for-the-badge)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-673AB7?style=for-the-badge)
-
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-
-### Game Engines & Digital Humans
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge)
-![MetaHuman](https://img.shields.io/badge/MetaHuman-0A0A0A?style=for-the-badge)
+### 🎮 Game Engines
+`Unity`
+`Unreal Engine`
+`MetaHuman`
+`Photon`
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 Enterprise RAG Platform
-- Azure OpenAI + LangChain + FAISS
-- Intelligent document search and Q&A
-- Enterprise knowledge assistant
+AI-powered enterprise search using Azure OpenAI, LangChain and FAISS.
 
 ### 🎙️ Voice AI Assistant
-- Azure Speech-to-Text
-- Azure OpenAI
-- Text-to-Speech Integration
-- Real-time conversational experience
+Real-time speech conversation using STT, LLM and TTS.
 
-### 🤖 Unity AI Avatar
-- AI-powered virtual assistant
-- Voice interaction
-- Real-time responses
-- WebGL deployment
+### 🤖 Multi-Agent AI System
+Autonomous AI agents built using CrewAI.
 
 ### 🎭 Unreal MetaHuman Assistant
-- MetaHuman Integration
-- Conversational AI
-- Voice AI
-- Real-time Digital Human Experience
+Digital human powered by LLMs and Voice AI.
 
-### 👥 Multi-Agent AI System
-- CrewAI
-- Autonomous AI Agents
-- Task orchestration
-- Enterprise workflows
+### 🎮 Unity AI Avatar
+Interactive AI avatar with voice-based conversations.
 
----
-
-## 📈 What I Work On
-
-✔ Generative AI Applications
-
-✔ Enterprise RAG Systems
-
-✔ Conversational AI Platforms
-
-✔ Voice AI Solutions
-
-✔ Digital Humans & MetaHumans
-
-✔ Unity & Unreal AI Integration
-
-✔ Cloud-Native AI Services
+### ⚡ FastAPI LLM Backend
+Production-ready backend APIs for enterprise AI applications.
 
 ---
 
@@ -114,25 +106,28 @@ Building Enterprise AI Solutions using LLMs, RAG, Voice AI, Azure OpenAI, Unity 
 
 🌟 Rookie Star Award
 
-🚀 Delivered AI-powered Virtual Human Solutions
+🚀 Delivered Enterprise AI & Digital Human Solutions
 
-🎯 Built Enterprise LLM & RAG Applications
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn  
-www.linkedin.com/in/seemarani-g
-
-📧 Email  
-seemarani2599@gmail.com
-
-🐙 GitHub  
-github.com/seemaranig
+🎯 Built Production-Grade Conversational AI Systems
 
 ---
+
+## 📈 GitHub Stats
 
 <p align="center">
-⭐ Building the future with Generative AI, Voice AI, and Digital Humans ⭐
+<img src="https://github-readme-stats.vercel.app/api?username=seemaranig&show_icons=true" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seemaranig" />
+</p>
+
+---
+
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](YOUR_RESUME_LINK)
+
+---
+
+### ⭐ Building the Future with Generative AI, Voice AI & Digital Humans
