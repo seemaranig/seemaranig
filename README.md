@@ -10,7 +10,7 @@
 
 I build enterprise-grade AI systems — from RAG pipelines and multi-agent orchestrators to voice-driven MetaHumans inside Unreal Engine.
 
-📍 Chennai, India &nbsp;|&nbsp; 📧 seemarani2599@gmail.com
+📍 Bengalore, India &nbsp;|&nbsp; 📧 seemarani2599@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seemarani_G-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seemarani-g/)
 [![Email](https://img.shields.io/badge/Email-seemarani2599%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seemarani2599@gmail.com)
